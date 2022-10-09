@@ -2,9 +2,9 @@
 
 | Subject                 | Name                 | Email                               | LinkedIn                           |
 | ----------------------- | -------------------- | ----------------------------------- |------------------------------------|
-| General                 | Johnny Mattimore     | jmattimore@firstderivative.com      | https://www.linkedin.com/in/johnny-d-mattimore-082969136/ |
-| Partner enquiry         | Johnny Mattimore     | jmattimore@firstderivative.com      | https://www.linkedin.com/in/johnny-d-mattimore-082969136/ |
-| Marketing & Media       | Victoria Mattimore   | victoriamattimore@gmail.com         | https://www.linkedin.com/in/victoria-mattimore-67318014/  |
+| General                 | Johnny Mattimore     | jmattimore@firstderivative.com      | [Johnny Mattimore on LinkedIn](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) |
+| Partner enquiry         | Johnny Mattimore     | jmattimore@firstderivative.com      | [Johnny Mattimore on LinkedIn](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) |
+| Marketing & Media       | Victoria Mattimore   | victoriamattimore@gmail.com         | [Victoria Mattimore on LinkedIn](https://www.linkedin.com/in/victoria-mattimore-67318014/) |
 | OS Programme Management | tba                  | add                                 | add                                |
 | add                     | add                  | add                                 | add                                |
 | add                     | add                  | add                                 | add                                |
